@@ -1,6 +1,6 @@
 
 times = 3
-while times <= 3 & times>0:
+while times <= 3 :
 	password = input('Password: ')
 	if password == 'a123456':
 		print('access!')
